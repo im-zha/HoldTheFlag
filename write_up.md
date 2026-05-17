@@ -310,7 +310,7 @@ Tìm flag theo định dạng `FLAG{[A-Z0-9_]+}`.
 - Đoạn gợi ý nhắc đến: "Một chuỗi ký tự lạ", và "một chìa khóa mà bạn đã biết từ đầu".
 
 ## Goal
-Trích xuất chuỗi ký tự bị giấu trong file, xác định đúng chìa khóa để giải mã, sau đó khôi phục lại bản rõ (Plaintext) và định dạng thành cờ `FLAG{[A-Z0-9_]+}`.
+Trích xuất chuỗi ký tự bị giấu trong file, xác định đúng chìa khóa để giải mã, sau đó khôi phục lại Plaintext và định dạng thành cờ `FLAG{[A-Z0-9_]+}`.
 
 ## Solution
 - **Bước 1 - Tìm chuỗi ký tự lạ**
